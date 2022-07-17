@@ -24,4 +24,4 @@ while(1):
     if x=='stop':
         m1.stop()
         m2.stop()
-        quit()
+        exit()
